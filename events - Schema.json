@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "race_id": "001",
+      "race_type": "sprint",
+      "track": "Paul Ricard",
+      "CountRating": "True",
+      "GT4Best": 115.245,
+      "GT3Best": 116.245
+    }
+
+
+
+  ]
+
+
+}

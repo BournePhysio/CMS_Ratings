@@ -1,0 +1,23 @@
+{
+  "Racers": [ {
+        
+        "name": "Cool Dude",
+      "steam_id": "Sxxxxxxx915",
+    "events": [
+      {
+        "race_id":  "001",
+        "model": "Porsche 911 II GT3 R (2019)",
+        "average_ten": 115.269,
+        "stdev_ten": 0.1,
+        "rating": 100,
+        "gt3": "GT3",
+        "race_type": "sprint"
+      }
+    ]
+
+
+    }
+  ]
+
+
+}
